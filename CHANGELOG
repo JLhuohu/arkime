@@ -4,7 +4,7 @@ OpenSearch Versions:
   * Arkime >= 3.0.0  supports 1.x or 2.x
 
 Elasticsearch Versions:
-  * Arkime >= 4.0.0  supports ES >= 7.10.0 or 8.x, not 9.x or later
+  * Arkime >= 4.0.0  supports ES >= 7.10.0 or 8.x, not 10.x or later
   * Arkime >= 3.0.0  supports ES >= 7.10.0, not 8.x or later
   * Moloch >= 2.7.0  supports ES >= 7.4.0, not 8.x or later
   * Moloch >= 2.2.0  supports ES >= 6.8.0 or >= 7.1.0, not 8.x or later
